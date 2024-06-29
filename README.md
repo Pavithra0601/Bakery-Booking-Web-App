@@ -1,10 +1,10 @@
 # Industrial-Canteen-Booking-Web-App
-This is the Cafeteria Web Application i developed for Engine factory Avadi
+This is the Industrial canteen Snacks booking Web Application i developed for Engine factory Avadi
 
 **Login Page:
 **
-![image 1](https://github.com/Pavithra0601/Industrial-Canteen-Booking-Web-App/assets/174179024/7e1f1023-2258-41f6-acd7-31057df4047d)
 
+![image 1](https://github.com/Pavithra0601/Industrial-Canteen-Booking-Web-App/assets/174179024/7e1f1023-2258-41f6-acd7-31057df4047d)
 
 
 This page is where the admin accesses the canteen management system through login Id and password. Passwords are only known to the admin of the canteen. When correct login Id and password is entered, the credentials are compared with the database table, if they are a match, then the user is admitted to enter the webpage. The webpage redirects to the menu page.
